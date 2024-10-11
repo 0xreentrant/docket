@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 The code snippet and expected entry point to the technical interview is in `src/app/page.tsx`.
 
+Tests are located in `__tests__/page.test.tsx`.
+
 I wrote this code snippet with these specific intentions in mind:
 - A simple starting point that can be expanded to consider componentization, backend API creation, CRUD functionality, etc.
 - Use placeholder JSON data, and move away from that placeholder data to use actual connections to persistent data stores
