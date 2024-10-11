@@ -4,7 +4,7 @@ Hi Nic,
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-The code snippet and expected entry point to the technical interview is in src/app/page.tsx.
+The code snippet and expected entry point to the technical interview is in `src/app/page.tsx`.
 
 I wrote this code snippet with these specific intentions in mind:
 - A simple starting point that can be expanded to consider componentization, backend API creation, CRUD functionality, etc.
